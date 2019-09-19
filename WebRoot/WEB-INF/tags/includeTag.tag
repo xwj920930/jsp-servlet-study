@@ -1,0 +1,1 @@
+ <%@ include file="/MyTag2.html" %>
